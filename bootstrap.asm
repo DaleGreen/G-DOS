@@ -1,4 +1,4 @@
-;http://kernelx.weebly.com/writing-a-bootsector.html
+;https://wiki.osdev.org/Boot_Sequence
 
 bits 16                         ; Tell assembler that this is 16-bit code.
 
